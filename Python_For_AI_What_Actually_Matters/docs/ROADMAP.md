@@ -57,7 +57,7 @@ Most beginners only reach layers 1–2. That's why their systems break.
 
 ---
 
-### ✅ Episode 2 — Python for AI: What Actually Matters
+### 🔥 Episode 2 — Python for AI: What Actually Matters ← You are here
 **Core question:** What Python do you actually need to build AI systems?
 
 **What you'll learn:**
@@ -73,7 +73,7 @@ Most beginners only reach layers 1–2. That's why their systems break.
 
 ---
 
-### 🔥 Episode 3 — Tool Calling, APIs & Validation ← You are here
+### 🔜 Episode 3 — Tool Calling, APIs & Validation
 **Core question:** How do you build an AI system that does things, not just says things?
 
 **What you'll learn:**
