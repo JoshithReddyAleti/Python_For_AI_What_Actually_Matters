@@ -403,10 +403,11 @@ python mini_projects/api_caller/llm_api_caller.py "Hello!"
 
 | Episode | Topic | Status |
 |---|---|---|
-| 1 | What is an LLM really? | [View repo →](https://github.com/YOUR_USERNAME/Understanding_LLMs_From_The_Inside_Out) |
+| 1 | What is an LLM really? | [View repo →](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) |
 | **2** | **Python for AI — what actually matters** | **← You are here** |
-| 3 | Tool calling, APIs & validation | [View repo →](https://github.com/YOUR_USERNAME/Building_AI_Project_Blueprint_for_Beginners) |
-| 4–10 | Coming soon | [Subscribe →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
+| 3 | Tool calling, APIs & validation | [View repo →](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) |
+| 4 | Your_First_End_To_End_AI_Project | [View repo →](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) |
+| 5–10 | Coming soon | [Subscribe →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
 
 ---
 
