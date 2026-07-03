@@ -13,7 +13,7 @@
 ![Hands On](https://img.shields.io/badge/Style-Hands%20On-F59E0B?style=flat-square)
 ![Episode](https://img.shields.io/badge/Episode-2%20of%2010-534AB7?style=flat-square)
 
-**[📖 Newsletter](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) · [⬅️ Episode 1](https://github.com/YOUR_USERNAME/Understanding_LLMs_From_The_Inside_Out) · [➡️ Episode 3](https://github.com/YOUR_USERNAME/Building_AI_Project_Blueprint_for_Beginners) · [🗺️ Roadmap](docs/ROADMAP.md)**
+**[📖 Newsletter](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) · [⬅️ Episode 1](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) · [➡️ Episode 3](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) · [🗺️ Roadmap](docs/ROADMAP.md)**
 
 </div>
 
@@ -44,7 +44,7 @@ Every item in this repo is something you'll use in Episode 3 and beyond.
 
 ## 📋 Prerequisites
 
-- You've read [Episode 1](https://github.com/YOUR_USERNAME/Understanding_LLMs_From_The_Inside_Out) (you understand what an LLM is)
+- You've read [Episode 1](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) (you understand what an LLM is)
 - You have Python 3.10+ installed (`python --version`)
 - You have a text editor (VS Code recommended)
 
@@ -425,6 +425,6 @@ Every episode: a real project + a concept deep-dive + interview prep.
 
 **If this helped you, give it a ⭐ — it helps other learners find it.**
 
-[⬅️ Episode 1](https://github.com/YOUR_USERNAME/Understanding_LLMs_From_The_Inside_Out) · [➡️ Episode 3](https://github.com/YOUR_USERNAME/Building_AI_Project_Blueprint_for_Beginners)
+[⬅️ Episode 1](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) · [➡️ Episode 3](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin)
 
 </div>
